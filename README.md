@@ -13,11 +13,10 @@
         <source media="(max-width: 767px)" srcset="">
         <img align="right" alt="" src="assets/programmer.gif" width=320px>
     </picture>
-        <h3>Passionate Data Scientist, Data Analyst and Data Engineer.</h3><br>
+        <h3>Coding for fun.</h3><br>
         <ul>
             <li>Currently working as Data Scientist at <a href="https://www.linkedin.com/company/romboost/">Romboost</a>.</li>
             <li>Currently Data Engineering and Artificial Intelligence student.</li>
-            <li>Talented Web Developer</li>
         </ul>
 </div>
 
@@ -27,8 +26,8 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,mysql,mongodb,postgres,docker,vscode,git,github,md"/><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,fastapi,flask"/><br>
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,heroku,cloudflare,bash,postman,vscode"><br> 
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask"/><br>
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,cloudflare,bash,postman,vscode"><br> 
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
