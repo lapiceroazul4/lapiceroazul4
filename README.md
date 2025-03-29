@@ -1,9 +1,8 @@
-<h1 align="center"><b> Hey! here's Lapiceroazul4 </b><img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f58a.svg" width="35"></h1>
-
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+here's+Lapiceroazul4;Data+Engineering+and+AI+Student,;Working+As+a+Data+Scientist+at+Romboost;"></a>
-</p>
-
-<h2> <b>About me</b> </h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+here's+Lapiceroazul4;Data+Engineering+and+AI+Student,;Working+As+a+Data+Scientist+at+Romboost;">
+</h1>
+<h2>About me</h2>
+Passionate learner and Data & AI Engineering student with a knack for transforming raw data into actionable insights. Proficient in Python, especially Pandas for ETL processes, and skilled in SQL for pattern extraction. Experienced in crafting interactive dashboards using Looker Studio and Power BI to drive informed decisions. Committed to creating impactful solutions. Eager to help businesses see the world through data.
 
 <h3>Coding for fun</h3>
 <ul>
@@ -17,6 +16,10 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#5](https://github.com/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO/pull/5) in [lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO](https://github.com/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO)
 <!--END_SECTION:activity-->
+
+### Spotify
+[![Spotify](https://novatorem-pi-pied.vercel.app/api/spotify)](https://open.spotify.com/user/m3rnzt67pdls9vwkqmsi2ku6y)
+
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
