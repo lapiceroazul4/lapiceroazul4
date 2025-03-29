@@ -23,13 +23,12 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<br>
-
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=lapiceroazul4&theme=radical&hide_border=false&include_all_commits=true&count_private=true&border_radius=10&line_height=23" alt="streak stats"/>
+    
+  <img width="400" src="https://github-readme-stats-pi-sand-42.vercel.app/api?username=lapiceroazul4&theme=radical&hide_border=false&include_all_commits=true&count_private=true&border_radius=10&line_height=23" alt="streak stats"/>   
   <img width="413" src="https://github-readme-streak-stats.herokuapp.com/?user=lapiceroazul4&theme=radical&hide_border=false&border_radius=10&line_height=23" alt="readme stats" />
-  <br/>
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lapiceroazul4&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10&line_height=23" alt="top langs" />
+  <img width="280" src="https://github-readme-stats-pi-sand-42.vercel.app/api/top-langs/?username=lapiceroazul4&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10&line_height=23" alt="top langs" />
+
 </div>
 
 <h2><b>You can find me at:</b></h2>
