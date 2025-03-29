@@ -13,6 +13,11 @@
 
 <img src="assets/divider.gif"><br><br>
 
+<!--START_SECTION:activity-->
+
+
+<!--END_SECTION:activity-->
+
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
