@@ -15,6 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO/pull/5) in [lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO](https://github.com/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
