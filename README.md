@@ -15,8 +15,6 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-
-
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
