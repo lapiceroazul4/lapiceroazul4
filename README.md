@@ -11,8 +11,9 @@
     <li>Currently Data Engineering and Artificial Intelligence student.</li>
 </ul>
 
-<img src="assets/divider.gif"><br><br>
+<img src="assets/divider.gif">
 
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 
 
