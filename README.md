@@ -8,7 +8,7 @@ Passionate learner and Data & AI Engineering student with a knack for transformi
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO/pull/11) in [lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO](https://github.com/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO)
+1. 🎉 Merged PR [#13](https://github.com/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO/pull/13) in [lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO](https://github.com/lapiceroazul4/Ingenieria-Datos-IA-Roadmap-UAO)
 <!--END_SECTION:activity-->
 
 
