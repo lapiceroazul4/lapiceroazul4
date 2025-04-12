@@ -8,7 +8,7 @@ Passionate learner and Data & AI Engineering student with a knack for transformi
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#156](https://github.com/elevenlabs/elevenlabs-examples/issues/156) in [elevenlabs/elevenlabs-examples](https://github.com/elevenlabs/elevenlabs-examples)
+1. 🗣 Commented on [#156](https://github.com/elevenlabs/elevenlabs-examples/issues/156#issuecomment-2797535749) in [elevenlabs/elevenlabs-examples](https://github.com/elevenlabs/elevenlabs-examples)
 <!--END_SECTION:activity-->
 
 
