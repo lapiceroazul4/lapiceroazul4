@@ -8,7 +8,7 @@ Passionate learner and Data & AI Engineering student with a knack for transformi
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/microsoft/esvit/issues/29#issuecomment-2835690778) in [microsoft/esvit](https://github.com/microsoft/esvit)
+1. ❗ Opened issue [#24](https://github.com/zbwxp/SegVit/issues/24) in [zbwxp/SegVit](https://github.com/zbwxp/SegVit)
 <!--END_SECTION:activity-->
 
 
