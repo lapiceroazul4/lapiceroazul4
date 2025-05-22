@@ -8,7 +8,7 @@ Passionate learner and Data & AI Engineering student with a knack for transformi
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#554](https://github.com/elevenlabs/elevenlabs-python/issues/554#issuecomment-2891901862) in [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python)
+1. 🎉 Merged PR [#3](https://github.com/PaolaChaux/Proyecto-SegFormer-Analitica-de-Datos/pull/3) in [PaolaChaux/Proyecto-SegFormer-Analitica-de-Datos](https://github.com/PaolaChaux/Proyecto-SegFormer-Analitica-de-Datos)
 <!--END_SECTION:activity-->
 
 
