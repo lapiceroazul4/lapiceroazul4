@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+here's+Lapiceroazul4;Data+Engineering+and+AI+Student,;Working+As+a+Data+Scientist+at+Romboost;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+here's+Lapiceroazul4;Data+Engineering+and+AI+Student,;Data+Engineer+|+Data+Scientist+|+AI+Engineer;">
 </p>
 
 <h1>About Lapiceroazul4</h1>
