@@ -8,7 +8,7 @@ Passionate learner and Data & AI Engineering student with a knack for transformi
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/lapiceroazul4/lakehouse-oss-vs-databricks/pull/1) in [lapiceroazul4/lakehouse-oss-vs-databricks](https://github.com/lapiceroazul4/lakehouse-oss-vs-databricks)
+1. 🎉 Merged PR [#2](https://github.com/lapiceroazul4/lakehouse-oss-vs-databricks/pull/2) in [lapiceroazul4/lakehouse-oss-vs-databricks](https://github.com/lapiceroazul4/lakehouse-oss-vs-databricks)
 <!--END_SECTION:activity-->
 
 
