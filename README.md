@@ -2,8 +2,20 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+here's+Lapiceroazul4;Data+Engineering+and+AI+Student,;DE+|+DS+|+AI+Engineer;">
 </p>
 
-<h1>About Lapiceroazul4</h1>
-Passionate learner and Data & AI Engineering student with a knack for transforming raw data into actionable insights. Proficient in Python, especially Pandas for ETL processes, and skilled in SQL for pattern extraction. Experienced in crafting interactive dashboards using Looker Studio and Power BI to drive informed decisions. Committed to creating impactful solutions. Eager to help businesses see the world through data.
+<h1>About me</h1>
+I’m a Data & AI Engineer from Universidad Autónoma de Occidente in Cali, Colombia, part of the program’s first graduating cohorts. I began working in the industry halfway through my studies—an experience that was challenging but allowed me to grow professionally while building a strong technical foundation. 
+<p></p>
+<p>I work across the full Data Science and AI lifecycle, including:</p>
+
+- building and deploying ML models (classification, segmentation, regression)
+- delivering end-to-end cloud solutions (GCP, AWS, Databricks)
+- developing production-ready text and voice AI agents.
+Python is my main tool, but I’ve also worked with JS, TS, PHP, and Dart, and I enjoy understanding how different technologies come together to create complete solutions.
+Beyond industry work, I’m interested in applying technology for social impact. I’ve contributed to research in:
+- AI-powered adaptive education for university students
+- Edge Computing and IoT to bring intelligent systems to resource-limited environments.
+
+Even when this field is new forme, my long-term goal is to help AI coexist with society in a healthy, ethical, and meaningful way.
 
 
 ### :zap: Recent Activity
