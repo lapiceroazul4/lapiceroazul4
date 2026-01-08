@@ -20,7 +20,7 @@ Even when this field is new forme, my long-term goal is to help AI coexist with 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/lapiceroazul4/lapiceroazul4/issues/2) in [lapiceroazul4/lapiceroazul4](https://github.com/lapiceroazul4/lapiceroazul4)
+1. 💪 Opened PR [#15](https://github.com/andyxhadji/langextract-bedrock/pull/15) in [andyxhadji/langextract-bedrock](https://github.com/andyxhadji/langextract-bedrock)
 <!--END_SECTION:activity-->
 
 
